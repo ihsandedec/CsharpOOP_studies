@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\radioButton\radioButton\bin\Debug\radioButton.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\radioButton\radioButton\bin\Debug\radioButton.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\radioButton\radioButton\bin\Debug\radioButton.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\radioButton\radioButton\obj\Debug\radioButton.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\radioButton\radioButton\obj\Debug\radioButton.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\radioButton\radioButton\obj\Debug\radioButton.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\radioButton\radioButton\obj\Debug\radioButton.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\radioButton\radioButton\obj\Debug\radioButton.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\radioButton\radioButton\obj\Debug\radioButton.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\radioButton\radioButton\obj\Debug\radioButton.pdb
