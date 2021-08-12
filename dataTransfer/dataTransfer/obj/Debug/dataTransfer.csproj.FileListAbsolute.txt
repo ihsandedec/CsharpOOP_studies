@@ -1,0 +1,11 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\bin\Debug\dataTransfer.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\bin\Debug\dataTransfer.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\bin\Debug\dataTransfer.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\obj\Debug\dataTransfer.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\obj\Debug\dataTransfer.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\obj\Debug\dataTransfer.frmShowDate.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\obj\Debug\dataTransfer.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\obj\Debug\dataTransfer.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\obj\Debug\dataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\obj\Debug\dataTransfer.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dataTransfer\dataTransfer\obj\Debug\dataTransfer.pdb
