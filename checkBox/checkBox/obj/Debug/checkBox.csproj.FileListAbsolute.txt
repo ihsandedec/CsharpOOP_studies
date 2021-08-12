@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\checkBox\checkBox\bin\Debug\checkBox.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\checkBox\checkBox\bin\Debug\checkBox.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\checkBox\checkBox\bin\Debug\checkBox.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\checkBox\checkBox\obj\Debug\checkBox.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\checkBox\checkBox\obj\Debug\checkBox.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\checkBox\checkBox\obj\Debug\checkBox.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\checkBox\checkBox\obj\Debug\checkBox.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\checkBox\checkBox\obj\Debug\checkBox.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\checkBox\checkBox\obj\Debug\checkBox.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\checkBox\checkBox\obj\Debug\checkBox.pdb
