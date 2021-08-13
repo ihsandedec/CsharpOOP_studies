@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dateTimePicker\dateTimePicker\bin\Debug\dateTimePicker.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dateTimePicker\dateTimePicker\bin\Debug\dateTimePicker.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dateTimePicker\dateTimePicker\bin\Debug\dateTimePicker.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dateTimePicker\dateTimePicker\obj\Debug\dateTimePicker.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dateTimePicker\dateTimePicker\obj\Debug\dateTimePicker.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dateTimePicker\dateTimePicker\obj\Debug\dateTimePicker.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dateTimePicker\dateTimePicker\obj\Debug\dateTimePicker.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dateTimePicker\dateTimePicker\obj\Debug\dateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dateTimePicker\dateTimePicker\obj\Debug\dateTimePicker.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\dateTimePicker\dateTimePicker\obj\Debug\dateTimePicker.pdb
