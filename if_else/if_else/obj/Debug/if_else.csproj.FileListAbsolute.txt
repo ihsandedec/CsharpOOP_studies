@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\if_else\if_else\bin\Debug\if_else.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\if_else\if_else\bin\Debug\if_else.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\if_else\if_else\bin\Debug\if_else.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\if_else\if_else\obj\Debug\if_else.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\if_else\if_else\obj\Debug\if_else.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\if_else\if_else\obj\Debug\if_else.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\if_else\if_else\obj\Debug\if_else.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\if_else\if_else\obj\Debug\if_else.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\if_else\if_else\obj\Debug\if_else.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\if_else\if_else\obj\Debug\if_else.pdb
