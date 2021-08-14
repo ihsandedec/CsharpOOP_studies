@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\for\for\bin\Debug\@for.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\for\for\bin\Debug\@for.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\for\for\bin\Debug\@for.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\for\for\obj\Debug\for.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\for\for\obj\Debug\for.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\for\for\obj\Debug\for.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\for\for\obj\Debug\for.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\for\for\obj\Debug\@for.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\for\for\obj\Debug\@for.pdb
