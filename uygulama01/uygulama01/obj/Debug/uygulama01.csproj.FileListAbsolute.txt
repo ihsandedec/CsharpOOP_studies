@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\uygulama01\uygulama01\bin\Debug\uygulama01.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\uygulama01\uygulama01\bin\Debug\uygulama01.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\uygulama01\uygulama01\bin\Debug\uygulama01.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\uygulama01\uygulama01\obj\Debug\uygulama01.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\uygulama01\uygulama01\obj\Debug\uygulama01.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\uygulama01\uygulama01\obj\Debug\uygulama01.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\uygulama01\uygulama01\obj\Debug\uygulama01.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\uygulama01\uygulama01\obj\Debug\uygulama01.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\uygulama01\uygulama01\obj\Debug\uygulama01.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\uygulama01\uygulama01\obj\Debug\uygulama01.pdb
