@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\while_dowhile\while_dowhile\bin\Debug\while_dowhile.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\while_dowhile\while_dowhile\bin\Debug\while_dowhile.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\while_dowhile\while_dowhile\bin\Debug\while_dowhile.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\while_dowhile\while_dowhile\obj\Debug\while_dowhile.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\while_dowhile\while_dowhile\obj\Debug\while_dowhile.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\while_dowhile\while_dowhile\obj\Debug\while_dowhile.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\while_dowhile\while_dowhile\obj\Debug\while_dowhile.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\while_dowhile\while_dowhile\obj\Debug\while_dowhile.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\while_dowhile\while_dowhile\obj\Debug\while_dowhile.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\while_dowhile\while_dowhile\obj\Debug\while_dowhile.pdb
