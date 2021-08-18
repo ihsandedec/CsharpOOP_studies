@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\diziler\diziler\bin\Debug\diziler.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\diziler\diziler\bin\Debug\diziler.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\diziler\diziler\bin\Debug\diziler.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\diziler\diziler\obj\Debug\diziler.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\diziler\diziler\obj\Debug\diziler.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\diziler\diziler\obj\Debug\diziler.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\diziler\diziler\obj\Debug\diziler.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\diziler\diziler\obj\Debug\diziler.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\diziler\diziler\obj\Debug\diziler.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\diziler\diziler\obj\Debug\diziler.pdb
