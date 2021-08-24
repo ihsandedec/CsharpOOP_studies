@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\Random Class\Random Class\bin\Debug\Random Class.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\Random Class\Random Class\bin\Debug\Random Class.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\Random Class\Random Class\bin\Debug\Random Class.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\Random Class\Random Class\obj\Debug\Random Class.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\Random Class\Random Class\obj\Debug\Random_Class.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\Random Class\Random Class\obj\Debug\Random_Class.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\Random Class\Random Class\obj\Debug\Random Class.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\Random Class\Random Class\obj\Debug\Random Class.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\Random Class\Random Class\obj\Debug\Random Class.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\Random Class\Random Class\obj\Debug\Random Class.pdb
