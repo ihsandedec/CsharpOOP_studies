@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\List\List\bin\Debug\List.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\List\List\bin\Debug\List.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\List\List\bin\Debug\List.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\List\List\obj\Debug\List.form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\List\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\List\List\obj\Debug\List.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\List\List\obj\Debug\List.pdb
