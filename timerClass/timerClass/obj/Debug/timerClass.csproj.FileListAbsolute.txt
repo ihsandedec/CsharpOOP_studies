@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\source\repos\timerClass\timerClass\bin\Debug\timerClass.exe.config
+C:\Users\Emirhan Sipahioğlu\source\repos\timerClass\timerClass\bin\Debug\timerClass.exe
+C:\Users\Emirhan Sipahioğlu\source\repos\timerClass\timerClass\bin\Debug\timerClass.pdb
+C:\Users\Emirhan Sipahioğlu\source\repos\timerClass\timerClass\obj\Debug\timerClass.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\source\repos\timerClass\timerClass\obj\Debug\timerClass.Form1.resources
+C:\Users\Emirhan Sipahioğlu\source\repos\timerClass\timerClass\obj\Debug\timerClass.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\source\repos\timerClass\timerClass\obj\Debug\timerClass.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\source\repos\timerClass\timerClass\obj\Debug\timerClass.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\source\repos\timerClass\timerClass\obj\Debug\timerClass.exe
+C:\Users\Emirhan Sipahioğlu\source\repos\timerClass\timerClass\obj\Debug\timerClass.pdb
