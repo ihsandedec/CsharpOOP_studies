@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\mathClass\mathClass\bin\Debug\mathClass.exe.config
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\mathClass\mathClass\bin\Debug\mathClass.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\mathClass\mathClass\bin\Debug\mathClass.pdb
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\mathClass\mathClass\obj\Debug\mathClass.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\mathClass\mathClass\obj\Debug\mathClass.Form1.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\mathClass\mathClass\obj\Debug\mathClass.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\mathClass\mathClass\obj\Debug\mathClass.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\mathClass\mathClass\obj\Debug\mathClass.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\mathClass\mathClass\obj\Debug\mathClass.exe
+C:\Users\Emirhan Sipahioğlu\Desktop\C#\mathClass\mathClass\obj\Debug\mathClass.pdb

@@ -45,11 +45,11 @@ namespace mathClass
             this.btnExp = new System.Windows.Forms.Button();
             this.button13 = new System.Windows.Forms.Button();
             this.lblFirstNumber = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblResult = new System.Windows.Forms.Label();
             this.lblSecondNumber = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtFirstNumber = new System.Windows.Forms.TextBox();
+            this.txtSecondNumber = new System.Windows.Forms.TextBox();
+            this.txtResult = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -85,6 +85,7 @@ namespace mathClass
             this.btnC.TabIndex = 0;
             this.btnC.Text = "C";
             this.btnC.UseVisualStyleBackColor = true;
+            this.btnC.Click += new System.EventHandler(this.btnC_Click);
             // 
             // btnMin
             // 
@@ -95,6 +96,7 @@ namespace mathClass
             this.btnMin.TabIndex = 1;
             this.btnMin.Text = "Min";
             this.btnMin.UseVisualStyleBackColor = true;
+            this.btnMin.Click += new System.EventHandler(this.btnMin_Click);
             // 
             // btnMax
             // 
@@ -105,6 +107,7 @@ namespace mathClass
             this.btnMax.TabIndex = 2;
             this.btnMax.Text = "Max";
             this.btnMax.UseVisualStyleBackColor = true;
+            this.btnMax.Click += new System.EventHandler(this.btnMax_Click);
             // 
             // btnAbs
             // 
@@ -115,6 +118,7 @@ namespace mathClass
             this.btnAbs.TabIndex = 3;
             this.btnAbs.Text = "Abs";
             this.btnAbs.UseVisualStyleBackColor = true;
+            this.btnAbs.Click += new System.EventHandler(this.btnAbs_Click);
             // 
             // btnTan
             // 
@@ -155,6 +159,7 @@ namespace mathClass
             this.btnSign.TabIndex = 4;
             this.btnSign.Text = "Sign";
             this.btnSign.UseVisualStyleBackColor = true;
+            this.btnSign.Click += new System.EventHandler(this.btnSign_Click);
             // 
             // btnLog10
             // 
@@ -226,15 +231,15 @@ namespace mathClass
             this.lblFirstNumber.TabIndex = 1;
             this.lblFirstNumber.Text = "First Number";
             // 
-            // label1
+            // lblResult
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(13, 166);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(54, 17);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Result";
+            this.lblResult.AutoSize = true;
+            this.lblResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblResult.Location = new System.Drawing.Point(13, 176);
+            this.lblResult.Name = "lblResult";
+            this.lblResult.Size = new System.Drawing.Size(54, 17);
+            this.lblResult.TabIndex = 2;
+            this.lblResult.Text = "Result";
             // 
             // lblSecondNumber
             // 
@@ -246,41 +251,45 @@ namespace mathClass
             this.lblSecondNumber.TabIndex = 3;
             this.lblSecondNumber.Text = "Second Number";
             // 
-            // textBox1
+            // txtFirstNumber
             // 
-            this.textBox1.Location = new System.Drawing.Point(153, 49);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 4;
+            this.txtFirstNumber.Location = new System.Drawing.Point(153, 49);
+            this.txtFirstNumber.Name = "txtFirstNumber";
+            this.txtFirstNumber.Size = new System.Drawing.Size(100, 20);
+            this.txtFirstNumber.TabIndex = 4;
+            this.txtFirstNumber.TextChanged += new System.EventHandler(this.txtFirstNumber_TextChanged);
+            this.txtFirstNumber.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtFirstNumber_KeyPress);
             // 
-            // textBox2
+            // txtSecondNumber
             // 
-            this.textBox2.Location = new System.Drawing.Point(153, 114);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 5;
+            this.txtSecondNumber.Location = new System.Drawing.Point(153, 114);
+            this.txtSecondNumber.Name = "txtSecondNumber";
+            this.txtSecondNumber.Size = new System.Drawing.Size(100, 20);
+            this.txtSecondNumber.TabIndex = 5;
+            this.txtSecondNumber.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSecondNumber_KeyPress);
             // 
-            // textBox3
+            // txtResult
             // 
-            this.textBox3.Location = new System.Drawing.Point(153, 176);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 6;
+            this.txtResult.Location = new System.Drawing.Point(153, 176);
+            this.txtResult.Name = "txtResult";
+            this.txtResult.Size = new System.Drawing.Size(100, 20);
+            this.txtResult.TabIndex = 6;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(617, 370);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtResult);
+            this.Controls.Add(this.txtSecondNumber);
+            this.Controls.Add(this.txtFirstNumber);
             this.Controls.Add(this.lblSecondNumber);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblResult);
             this.Controls.Add(this.lblFirstNumber);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -305,11 +314,11 @@ namespace mathClass
         private System.Windows.Forms.Button btnMin;
         private System.Windows.Forms.Button btnC;
         private System.Windows.Forms.Label lblFirstNumber;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblResult;
         private System.Windows.Forms.Label lblSecondNumber;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtFirstNumber;
+        private System.Windows.Forms.TextBox txtSecondNumber;
+        private System.Windows.Forms.TextBox txtResult;
     }
 }
 
