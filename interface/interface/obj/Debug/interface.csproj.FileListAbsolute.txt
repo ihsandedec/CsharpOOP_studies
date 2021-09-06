@@ -1,0 +1,10 @@
+C:\Users\Emirhan Sipahioğlu\source\repos\interface\interface\bin\Debug\@interface.exe.config
+C:\Users\Emirhan Sipahioğlu\source\repos\interface\interface\bin\Debug\@interface.exe
+C:\Users\Emirhan Sipahioğlu\source\repos\interface\interface\bin\Debug\@interface.pdb
+C:\Users\Emirhan Sipahioğlu\source\repos\interface\interface\obj\Debug\interface.csproj.AssemblyReference.cache
+C:\Users\Emirhan Sipahioğlu\source\repos\interface\interface\obj\Debug\interface.Form1.resources
+C:\Users\Emirhan Sipahioğlu\source\repos\interface\interface\obj\Debug\interface.Properties.Resources.resources
+C:\Users\Emirhan Sipahioğlu\source\repos\interface\interface\obj\Debug\interface.csproj.GenerateResource.cache
+C:\Users\Emirhan Sipahioğlu\source\repos\interface\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Sipahioğlu\source\repos\interface\interface\obj\Debug\@interface.exe
+C:\Users\Emirhan Sipahioğlu\source\repos\interface\interface\obj\Debug\@interface.pdb
